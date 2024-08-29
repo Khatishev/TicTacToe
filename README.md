@@ -8,4 +8,6 @@ npm install
 
 npm run dev
 ## Demonstration
+<img src="/public/Demonstration.png">
+
 ### Link to the website: 
